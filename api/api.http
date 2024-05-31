@@ -1,0 +1,8 @@
+GET http://localhost:8080 HTTP/1.1
+Host: localhost:8080
+Content-Type: application/json
+
+
+######
+
+curl -H "API_KEY: 123456" http://localhost:8080
